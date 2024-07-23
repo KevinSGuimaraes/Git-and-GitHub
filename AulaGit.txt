@@ -1,0 +1,9 @@
+O que é Git?
+
+O Git é um sistema de controle de versão que permite rastrear as alterações feitas em seus arquivos ao longo do tempo. Com o Git, você pode reverter para vários estados de seus arquivos (como se usasse uma máquina do tempo). Você também pode fazer uma cópia do arquivo, fazer alterações nessa cópia e mesclar essas alterações na versão original.
+
+Por exemplo, você pode estar trabalhando na página de destino de um site e descobrir que não gosta da barra de navegação. Ao mesmo tempo, você pode ficar apreensivo em começar a alterar seus componentes, porque o resultado pode ser pior.
+
+Com o Git, você pode criar uma cópia idêntica desse arquivo e mexer na barra de navegação. Então, quando estiver satisfeito com suas alterações, poderá mesclar a cópia ao arquivo original.
+
+Você não está limitado a usar o Git apenas para arquivos de código-fonte – você também pode usá-lo para acompanhar arquivos de texto ou até imagens. Isso significa que o Git não é apenas para desenvolvedores – qualquer um pode achá-lo útil.
