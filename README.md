@@ -3,17 +3,17 @@
 
 Bem-vindo ao repositório do curso Técnico em Desenvolvimento de Sistemas do SENAI Dois Vizinhos - PR. Aqui você encontrará todos os materiais, exercícios e atividades relacionadas às aulas ministradas.
 
-# Índice
+## Índice
 
-- Sobre o Curso
-- Estrutura do Repositório
-- Materiais de Aula
-- Exercícios
-- Projetos
-- Como Contribuir
-- Contato
+- [Sobre o Curso](#sobre-o-curso)
+- [Estrutura do Repositório](#estrutura-do-repositório)
+- [Materiais de Aula](#materiais-de-aula)
+- [Exercícios](#exercícios)
+- [Projetos](#projetos)
+- [Como Contribuir](#como-contribuir)
+- [Contato](#contato)
 
-#Sobre o Curso
+## Sobre o Curso
 
 Objetivo geral
 
@@ -31,7 +31,7 @@ Objetivos específicos
 
 - Proporcionar aos alunos, através do desenvolvimento de projetos e atividades desafiadoras, a percepção e incorporação consciente e crítica da estética e da ética nas relações humanas envolvidas em situações profissionais.
 
-# Estrutura do Repositório
+## Estrutura do Repositório
 
 - aulas/: Contém os materiais das aulas, como slides, notas e códigos de exemplo.
 - exercicios/: Contém os exercícios propostos durante o curso.
@@ -39,7 +39,7 @@ Objetivos específicos
 - docs/: Contém documentações e manuais complementares.
 - referencias/: Contém materiais de referência adicionais.
 
-# Materiais de Aula
+## Materiais de Aula
 
 Os materiais das aulas estão organizados por módulo e aula:
 
