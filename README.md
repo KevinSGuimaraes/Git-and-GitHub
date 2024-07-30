@@ -43,6 +43,10 @@ Objetivos específicos
 
 ![Lista de Presença](imagens/lista_presenca.png)
 
+# Notas Atividades
+
+![Notas Atividade JS](imagens/NotasAtividadeJS.png)
+
 ## Materiais de Aula
 
 Os materiais das aulas estão organizados por módulo e aula:
