@@ -39,6 +39,10 @@ Objetivos específicos
 - docs/: Contém documentações e manuais complementares.
 - referencias/: Contém materiais de referência adicionais.
 
+# Lista de Presença
+
+![Lista de Presença](imagens/lista_presenca.png)
+
 ## Materiais de Aula
 
 Os materiais das aulas estão organizados por módulo e aula:
