@@ -39,6 +39,9 @@ Objetivos específicos
 - docs/: Contém documentações e manuais complementares.
 - referencias/: Contém materiais de referência adicionais.
 
+# Calendário
+
+![Notas Atividade JS](imagens/Calendário.pdf)
 # Lista de Presença
 
 ![Lista de Presença](imagens/lista_presenca.png)
@@ -46,6 +49,8 @@ Objetivos específicos
 # Notas Atividades
 
 ![Notas Atividade JS](imagens/NotasAtividadeJS.png)
+
+
 
 ## Materiais de Aula
 
