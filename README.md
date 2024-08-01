@@ -41,7 +41,7 @@ Objetivos específicos
 
 # Calendário
 
-![Notas Atividade JS](imagens/Calendário.pdf)
+![Calendário](imagens/Calendário.pdf)
 # Lista de Presença
 
 ![Lista de Presença](imagens/lista_presenca.png)
