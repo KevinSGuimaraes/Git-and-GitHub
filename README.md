@@ -49,7 +49,9 @@ Objetivos específicos
 # Notas Atividades
 
 ![Notas Atividade JS](imagens/NotasAtividadeJS.png)
+# Notas Atividades 02
 
+![Notas Atividade JS](imagens/NotasAtividade02JS.png)
 
 
 ## Materiais de Aula
