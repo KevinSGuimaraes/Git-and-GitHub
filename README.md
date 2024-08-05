@@ -48,7 +48,7 @@ Objetivos específicos
 
 # Notas Atividades
 
-![Notas Atividade JS](imagens/NotasAtividadeJS.png)
+![Notas Atividade JS](imagens/NotasAtividade01JS.png)
 # Notas Atividades 02
 
 ![Notas Atividade JS](imagens/NotasAtividade02JS.png)
