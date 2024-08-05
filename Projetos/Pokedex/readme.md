@@ -53,7 +53,7 @@ Você deverá desenvolver uma Pokédex que atenda aos seguintes requisitos:
 
 2. **Estilização com CSS3:**
    - Utilização de CSS para estilizar a página de forma atraente, conforme o layout mostrado na imagem de exemplo.
-   ![Exemplo](image/Exemplo.png)
+   ![Exemplo](images/Exemplo.png)
    - Implementação de efeitos de hover e ou focus para mudar a imagem do Pokémon quando o usuário passar o mouse sobre ela.
    - Criação de animações simples para dar feedback visual ao usuário ao interagir com a Pokédex.
 
