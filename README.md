@@ -53,6 +53,10 @@ Objetivos específicos
 
 ![Notas Atividade JS](imagens/NotasAtividade02JS.png)
 
+# Média Final
+MF = (ATV1*0.2)+(ATV2*0.3)+(TRAB*0.5)
+
+![Notas Atividade JS](imagens/NotasFinal.png)
 
 ## Materiais de Aula
 
